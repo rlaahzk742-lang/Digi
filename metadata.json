@@ -1,0 +1,6 @@
+{
+  "name": "인낫망 - 사회학 이론 계보 지식그래프 기획서",
+  "description": "디지털인문학 응용(COLA173-19) C팀(인낫망)의 칼 마르크스 중심 20세기 사회이론 계보 지식그래프 구축 프로젝트 기획서 및 인터랙티브 탐색 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
